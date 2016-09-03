@@ -32,7 +32,7 @@ Source: Wikipédia
 
 Malgré de nombreuses critiques le Bitcoin n'en reste pas moins une monnaie à la popularité croissante.
 
-![alt text](https://github.com/skad94/skad94.github.io/blob/master/images/coindesk-bpi-chart.png "Bitcoin price from 2010 to 2016")
+![alt text]({{ site.baseurl }}/images/coindesk-bpi-chart.png "Bitcoin price from 2010 to 2016")
 
 
 
